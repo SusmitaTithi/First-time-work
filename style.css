@@ -1,0 +1,99 @@
+*{margin: 0;
+    padding: 0;
+    box-sizing: border-box;}
+    #logo{
+        width: 100px;
+    }
+    .button{
+       width: 150px;
+       border-radius:30px;}
+    
+    /* only virtual health care  */
+    .btn{
+       
+        border-radius: 30px;}
+    
+    
+       /* service card section */
+    
+        .service-img{
+        width: 150px;
+        margin-bottom: 20px;
+        object-fit: contain;
+        height: 30%;
+        }  
+       .service-card{
+        box-shadow:  10px 10px 20px  rgba(128, 128, 128, 0.267);
+        border-radius: 30px;
+       }
+       .card{
+        border: none;
+       }
+    
+    /* Last articals */
+    #blog h5{
+        font-weight: bold;
+    }
+    .view-all{
+        display: block;
+        margin: 0 auto;
+    }
+    .ser-img{
+        width: 100%;
+    }
+    .hr-style{
+        width: 200px;
+        border: 3px solid black;
+        margin: 0 auto;
+        opacity: 1;
+    }
+    .card-footer{
+        border: none;
+        background-color: transparent;
+    }
+    
+    /* footer section start  */
+    /* .container1{
+        max-width: 1100px;
+        margin: 0 auto;
+        color: white;
+       
+    }  */
+    /* .row{
+        display: flex;
+        flex-wrap: wrap;
+    }  */
+    /* ul{
+        list-style: none;
+    }  */
+     .footer{
+        background-color: #448CFA;
+        padding: 70px 0;
+        background-image: url('Image/Footer\ Background.png');
+        background-repeat: no-repeat;
+        background-position: bottom left;
+    } 
+    /* .footer-call{
+        width: 25%;
+        padding: 0 15px;
+        justify-self: start;
+    }  */
+     /* .footer-call ul li a{
+        color: white;
+        text-decoration: none;
+        margin: 0 auto;
+        font-weight: 200;
+    }  */
+    
+     .footer h4{
+        font-size: 2rem;
+        margin-bottom: 25px;}
+
+        
+        
+        
+/*     
+    ul li{
+        list-style-type: none;
+    } */
+     
